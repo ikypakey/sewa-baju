@@ -27,19 +27,19 @@
       <div class="main-sidebar">
         <aside id="sidebar-wrapper">
           <div class="container text-center mt-3">
-           <img  src="<?php echo base_url('uploads/sb.png')?>" style="width: 50px; height: 50px;">
+         <img  src="<?php echo base_url('uploads/im_logo.png')?>" style="width: 110px; height: 110px;">
            </div>
           <div class="sidebar-brand">
-            <a href="index.html">Sewa Baju</a>
+            <a href="index.html">Idola Modes</a>
           </div>
           <div class="sidebar-brand sidebar-brand-sm">
             <a href="index.html">St</a>
           </div>
           <ul class="sidebar-menu">              
               <li><a class="nav-link" href="<?php echo base_url('penyewa/dashboard') ?>"><i class="fas fa-home"></i> <span>Beranda</span></a></li>
-
+            
               <li class="nav-item dropdown">
-                <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-tshirt"></i> <span>Baju</span></a>
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"><i class="fas fa-tshirt"></i> <span>Baju</span></a>
                 <ul class="dropdown-menu">
                   <li><a class="nav-link" href="<?php echo base_url('kategori/baju_adat') ?>">Baju Adat</a></li>
                   <li><a class="nav-link" href="<?php echo base_url('kategori/baju_nikah') ?>">Baju Pernikahan</a></li>
@@ -47,9 +47,7 @@
                   <li><a class="nav-link" href="<?php echo base_url('kategori/baju_kostum') ?>">Baju Kostum Anak</a></li>
                 </ul>
               </li>
-
               <li><a class="nav-link" href="<?php echo base_url('penyewa/transaksi') ?>"><i class="fas fa-random"></i> <span>Transaksi</span></a></li>
-
             </ul>
 
             

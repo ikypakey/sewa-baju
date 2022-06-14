@@ -84,7 +84,10 @@
       <div class="main-sidebar">
         <aside id="sidebar-wrapper">
           <div class="sidebar-brand">
-            <a href="index.html">Sewa Bajuku</a>
+            <div class="container text-center mt-3">
+           <img  src="<?php echo base_url('uploads/im_logo.png')?>" style="width: 110px; height: 110px;">
+           </div>
+            <a href="index.html">Idola Modes</a>
           </div>
           <div class="sidebar-brand sidebar-brand-sm">
             <a href="index.html">St</a>
