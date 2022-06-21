@@ -39,7 +39,7 @@
               <li><a class="nav-link" href="<?php echo base_url('penyewa/dashboard') ?>"><i class="fas fa-home"></i> <span>Beranda</span></a></li>
             
               <li class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"><i class="fas fa-tshirt"></i> <span>Baju</span></a>
+                <a href="#" class="nav-link has-dropdown" data-toggle="dropdown-toggle"><i class="fas fa-tshirt"></i> <span>Baju</span></a>
                 <ul class="dropdown-menu">
                   <li><a class="nav-link" href="<?php echo base_url('kategori/baju_adat') ?>">Baju Adat</a></li>
                   <li><a class="nav-link" href="<?php echo base_url('kategori/baju_nikah') ?>">Baju Pernikahan</a></li>

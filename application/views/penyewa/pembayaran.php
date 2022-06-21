@@ -87,9 +87,9 @@
                     <div class="card-body">
                       <p class="text-success">Silahkan Melakukan Pembayaran :</p>
                       <ul class="list-group list-group-flush">
-                        <li class="list-group-item">BCA : 242904823904</li>
-                        <li class="list-group-item">BNI : 424213412333</li>
-                        <li class="list-group-item">MANDIRI : 234324343</li>
+                        <li class="list-group-item">BCA : 242904823904   A.N Idola Modes</li>
+                        <li class="list-group-item">BNI : 424213412333   A.N Idola Modes</li>
+                        <li class="list-group-item">MANDIRI : 234324343  A.N Idola Modes</li>
                       </ul>
 
                       <?php 
